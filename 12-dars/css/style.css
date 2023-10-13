@@ -1,0 +1,83 @@
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color:#0A0C1C ;
+    margin-top: 50px;
+   
+}
+.figma {
+    max-width: 1141px;
+    margin: 0 auto;
+    padding-top: 164px;
+    padding-bottom:190px ;
+    
+    
+}
+.user {
+    display: flex;
+    background-color:#1B1937;
+    justify-content: space-between;
+    padding-left: 74px;
+ 
+}
+
+.user1 {
+    padding-top: 71px;
+    width: 414px;
+}
+h1{
+    color: white;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+    padding-bottom: 25px;
+}
+span{
+    color: #AB5CDB;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+}
+.text {
+    width: 384px;
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    padding-bottom: 72px;
+}
+.cards {
+    display: flex;
+    align-items: center;
+    gap: 66px;
+}
+
+h2{
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+    padding-bottom: 2px;
+
+}
+.card p{
+    color: white;
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 25px;
+    letter-spacing: 1px; 
+}
+
+.maket {
+    width: 555px;
+    height: 520px;
+}
+.maket2 img{
+    width: 100%;
+    height: 100%
+}
